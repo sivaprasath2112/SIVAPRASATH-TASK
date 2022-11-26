@@ -1,0 +1,26 @@
+there are two main diferences between dynamic typing and static typing 
+dynamically typed languages perform type checking at runtime while  whle statically typed languages perform type checking at complile time
+statically typed languages
+a language is statically typed if the type of variable is known complile time this means that yoy programmer must be type of variables
+dynamically typed languages
+a language is dynamically typed if the type is associated with run time values and not names variables 
+scripting language vs programming language
+scripting language convert high level instruction into machine languages
+programming languages
+programming languages help in converting full program into machine language 
+these language first need compilation 
+major programming paradigms
+imperative
+logical 
+functional
+onject oriented
+programming language
+programming paradigms are different ways or styles in which are given program or programming language 
+imperative programs
+imperative programming focuses on describing how a program operates step by step
+procedural programming
+procedural programming is derivative imperative programming
+functional programming 
+functional programming takes the concept of function a little bit futher
+declarative programming
+declarative programming is all about hiding away complexity and bringind programming language equal to human language
